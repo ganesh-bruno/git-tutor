@@ -1,1 +1,2 @@
-this is sample txt file for project requirements
+this is sample txt file for project requirements.
+Thanks for adding this file fro vim editor. 
